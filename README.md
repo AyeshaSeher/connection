@@ -1,5 +1,55 @@
 # connection
 DivHacks Hackathon
+
+== Main Features ===
+++ Registration, login
+   User name
+   Email 
+   Password
+   Confirm password
+
+
+++ Groups
+   create, Add, leave, post in group.
+   Group admin can also change group profile, gropu cover photo.
+   Post related stuff in group.
+   Public , Private settings are also provide for group.
+   Every group have:
+        1. Details
+        2. Settings
+        3. Photo
+        4. Media
+        5. Cover Image
+        6. Invites
+   Group settings:
+       Privacy Options
+           public group
+           private group
+           hidden group
+     
+
+++ Members
+   Add and remove members
+   Friend request, cancel friendship request
+   send message, add in a group
+   
+   
+++ Account Settings
+   Detail of all these Personal,Mentions,Favorites,Friends,Groups.
+   
+   
+++ User Profile
+   Users can change their profiles. 
+   change cover and profile photo,.
+   
+++ Message
+   people can send messages to each other.
+   
+   
+++ Audio, Video, Picture , Files
+   Add all these in their profile.
+
+
  == Theme ==
   buddyPressX theme is used in this website. 
   This website contain 6 menu: Home, Group, Member, News feed, account settings, logout.
